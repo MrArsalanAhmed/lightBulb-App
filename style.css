@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;    
+}
+
+#bulbContainer {
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
